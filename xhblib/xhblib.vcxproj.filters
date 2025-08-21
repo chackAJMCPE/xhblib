@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="XboxDraw2D">
+      <UniqueIdentifier>{d53266ba-5d0d-4bea-b916-ea3074920d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XboxPAD">
+      <UniqueIdentifier>{c7860b06-fa0f-42a8-b6f2-0394c6df75a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XboxConsoleInfo">
+      <UniqueIdentifier>{3c09b822-8a7e-45de-83eb-11f3eee74024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XboxHTTP">
+      <UniqueIdentifier>{4a0fe215-49ed-490e-a5e5-7b0c10ea2f9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xhblib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XboxDraw2D\XboxDraw2D.h">
+      <Filter>XboxDraw2D</Filter>
+    </ClInclude>
+    <ClInclude Include="XboxPAD\XboxPad.h">
+      <Filter>XboxPAD</Filter>
+    </ClInclude>
+    <ClInclude Include="XboxConsoleInfo\XboxConsoleInfo.h">
+      <Filter>XboxConsoleInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="XboxHTTP\XboxHTTP.h">
+      <Filter>XboxHTTP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XboxDraw2D\XboxDraw2D.cpp">
+      <Filter>XboxDraw2D</Filter>
+    </ClCompile>
+    <ClCompile Include="XboxPAD\XboxPad.cpp">
+      <Filter>XboxPAD</Filter>
+    </ClCompile>
+    <ClCompile Include="XboxConsoleInfo\XboxConsoleInfo.cpp">
+      <Filter>XboxConsoleInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="XboxHTTP\XboxHTTP.cpp">
+      <Filter>XboxHTTP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
