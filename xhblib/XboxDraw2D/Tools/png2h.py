@@ -66,7 +66,8 @@ def process_image(input_path, output_header):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python texture_converter.py <input.png> <output.h>")
+        print("Usage: python png2h.py <input.png> <output.h>")
         sys.exit(1)
     
+
     process_image(sys.argv[1], sys.argv[2])
