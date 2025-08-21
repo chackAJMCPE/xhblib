@@ -8,4 +8,4 @@ For use with Visual Studio 2010 Ultimate and XDK 21256.3
 
 Put it inside the solution folder, then in visual studio right-click your solution, add, existing project, go to xhblib directory and double-click the xhblib.vcxproj file.
 
-## If you have any feature request, or bug fixes make a pull request or a issue
+## If you have any feature request, or bug fixes, make a pull request or a issue
