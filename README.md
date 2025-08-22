@@ -10,3 +10,6 @@ Put it inside the solution folder, then in visual studio right-click your soluti
 If the linker reports unresolved functions, add the xhblib.lib file to your project: Project → Properties → Linker → Input → Additional Dependencies.
 
 ## If you have any feature request, or bug fixes, make a pull request or a issue
+
+What's new?
+Added Filesystem Wrapper
