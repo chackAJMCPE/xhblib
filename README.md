@@ -16,6 +16,9 @@ Added Filesystem Wrapper
 
 ## Planned Features:
 Drawing using TTF fonts
+
 Drawing vector graphics
+
 Reading keyboard presses
+
 Launching XEX's
