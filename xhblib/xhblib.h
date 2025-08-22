@@ -1,5 +1,0 @@
-#include "stdafx.h"
-#include "XboxDraw2D/XboxDraw2D.h"
-#include "XboxPAD/XboxPad.h"
-#include "XboxConsoleInfo/XboxConsoleInfo.h"
-#include "XboxHTTP/XboxHTTP.h"
