@@ -11,5 +11,11 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## If you have any feature request, or bug fixes, make a pull request or a issue
 
-What's new?
+## What's new?
 Added Filesystem Wrapper
+
+## Planned Features:
+Drawing using TTF fonts
+Drawing vector graphics
+Reading keyboard presses
+Launching XEX's
