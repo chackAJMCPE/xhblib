@@ -13,9 +13,13 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## What's new?
 Added Filesystem Wrapper
+
 Updated XboxPAD:
+
     Added vibration
+    
     Added reading trigger values
+    
     Added reading stick axis values
 
 ## Planned Features:
