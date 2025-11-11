@@ -13,6 +13,7 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## What's new?
 Added Filesystem Wrapper
+Added launching .xex's
 
 Updated XboxPAD:
 
@@ -23,8 +24,8 @@ Updated XboxPAD:
     Added reading stick axis values
 
 ## Planned Features:
+Optimize XD2D
+
 Drawing using TTF fonts
 
 Drawing vector graphics
-
-Launching XEX's
