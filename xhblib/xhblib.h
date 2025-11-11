@@ -3,4 +3,5 @@
 #include "XboxPAD/XboxPad.h"
 #include "XboxConsoleInfo/XboxConsoleInfo.h"
 #include "XboxHTTP\XboxHTTP.h"
+#include "XboxMisc\XboxMisc.h"
 #include "XboxFS/XboxFS.h"
