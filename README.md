@@ -13,6 +13,7 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## What's new?
 Added Filesystem Wrapper
+
 Added launching .xex's
 
 Updated XboxPAD:
