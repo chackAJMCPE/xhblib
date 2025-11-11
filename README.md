@@ -1,8 +1,8 @@
 # xhblib
 
-Xbox 360 Homebrew Library made to be easy to use in homebrew projects, using the official XDK
+Xbox 360 Homebrew Library for easier interfacing with the console, for homebrew projects using the official XDK.
 
-For use with Visual Studio 2010 Ultimate and XDK 21256.3
+Use with Visual Studio 2010 Ultimate (i'm working for a thing that makes this not a requirement) and XDK 21256.3
 
 ## How to add to your project?:
 
