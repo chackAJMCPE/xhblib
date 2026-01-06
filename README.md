@@ -25,7 +25,7 @@ Updated XboxPAD:
     Added reading stick axis values
 
 ## Planned:
-Optimize XD2D (Just write to the framebuffer, omit D3D)
+Optimize XD2D (Just write to the framebuffer, omit D3D. Help needed)
 
 Drawing using TTF fonts
 
