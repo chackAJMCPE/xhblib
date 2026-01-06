@@ -2,7 +2,7 @@
 
 Xbox 360 Homebrew Library for easier interfacing with the console, for homebrew projects using the official XDK.
 
-Use with Visual Studio 2010 Ultimate (i'm working oon a thing that makes this not a requirement) and XDK 21256.3
+Use with Visual Studio 2010 Ultimate (i'm working on a build script that removes the requirement for it) and XDK 21256.3
 
 ## How to add to your project?:
 
