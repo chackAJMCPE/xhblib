@@ -11,7 +11,7 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## If you have any feature request, or bug fixes, make a pull request or a issue
 
-## What's new?
+## Changelog (from initial commit)?
 Added Filesystem Wrapper
 
 Added launching .xex's
@@ -24,8 +24,8 @@ Updated XboxPAD:
     
     Added reading stick axis values
 
-## Planned Features:
-Optimize XD2D
+## Planned:
+Optimize XD2D (Just write to the framebuffer, omit D3D)
 
 Drawing using TTF fonts
 
