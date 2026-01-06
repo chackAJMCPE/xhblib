@@ -11,7 +11,7 @@ If the linker reports unresolved functions, add the xhblib.lib file to your proj
 
 ## If you have any feature request, or bug fixes, make a pull request or a issue
 
-## Changelog (from initial commit)?
+## Changelog (from initial commit):
 Added Filesystem Wrapper
 
 Added launching .xex's
